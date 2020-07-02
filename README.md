@@ -48,6 +48,6 @@ We use GitHub for versioning.
 
 **Angus Russell:** gussell87
 
-**Cynthia Wong:** wongcmk
+**Cynthia Yim:** wongcmk
 
 **Terry Moschos:** EMoschos
